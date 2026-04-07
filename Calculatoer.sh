@@ -7,7 +7,7 @@ echo "Enter Second Number :"
 read num2
 
 echo "Enter Third Number :"
-read num3
+read num4
 
 case $op in 
 +0
